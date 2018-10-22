@@ -1,0 +1,1 @@
+azix: node file.js
